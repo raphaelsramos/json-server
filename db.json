@@ -180,5 +180,24 @@
 			"modalityId": "AC",
 			"name": "FATOR REUMATÓIDE - SANGUE"
 		}
-	]
+	],
+	"exame": {
+		"DIV||CARIOF": {
+			"conditions": "- Sangue fetal (colhido do cordão umbilical) (Heparina sódica) &lt;BR&gt;- Líquido pleural fetal; líquido ascítico fetal e líquido de higroma cístico fetal. ",
+			"fastingTime": "- Jejum não obrigatório.",
+			"id": "DIV||CARIOF",
+			"instructions": "- A coleta de sangue fetal é um procedimento médico e pode ser realizada a partir da 20ª semana de gestação.&lt;BR&gt;- Necessário enviar cópia do pedido médico.&lt;BR&gt;",
+			"material": "DIVERSOS [DIV]",
+			"materialId": "DIV",
+			"method": "- Bandamento G (Metodologia in house)",
+			"privatePrice": "R$ 513,00",
+			"questionnaire": "",
+			"referenceRange": "<PRE></PRE>",
+			"scheduleNeeded": "",
+			"scheduleTime": "Diariamente&nbsp;ate&nbsp;as&nbsp;15:00&nbsp;hs,&nbsp;prazo:&nbsp;11&nbsp;dias&nbsp;úteis&nbsp;as&nbsp;15:00&nbsp;hs",
+			"testId": "CARIOF",
+			"testName": "CARIÓTIPO FETAL COM BANDA G [CARIOF]",
+			"units": "- Exame realizado em todas as lojas Hermes Pardini."
+		}
+	}
 }
