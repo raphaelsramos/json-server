@@ -1,0 +1,445 @@
+{
+	"exames": [
+		{
+			"exameId": "CARIOF",
+			"exameService": "LAB",
+			"id": "DIV||CARIOF",
+			"materialId": "DIV",
+			"materialName": "DIVERSOS",
+			"modalityId": "AC",
+			"name": "CARIÓTIPO FETAL COM BANDA G"
+		},
+		{
+			"exameId": "IGVH",
+			"exameService": "LAB",
+			"id": "DIV||IGVH",
+			"materialId": "DIV",
+			"materialName": "DIVERSOS",
+			"modalityId": "",
+			"name": "HIPERMUTAÇÃO IGH (IGVH) SCREENING - DIVERSOS"
+		},
+		{
+			"exameId": "S.OC.",
+			"exameService": "LAB",
+			"id": "F||S.OC.",
+			"materialId": "F",
+			"materialName": "FEZES",
+			"modalityId": "AC",
+			"name": "SANGUE OCULTO ANTICORPOS MONOCLONAIS"
+		},
+		{
+			"exameId": "17H-MS",
+			"exameService": "LAB",
+			"id": "S||17H-MS",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "17 ALFA HIDROXI PROGESTERONA POR MASSAS"
+		},
+		{
+			"exameId": "AC-LAC",
+			"exameService": "LAB",
+			"id": "S||AC-LAC",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "ÁCIDO LÁTICO ARTERIAL"
+		},
+		{
+			"exameId": "AL",
+			"exameService": "LAB",
+			"id": "S||AL",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "ÁCIDO LÁTICO - LACTATO - SANGUE"
+		},
+		{
+			"exameId": "BENZEN",
+			"exameService": "LAB",
+			"id": "S||BENZEN",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "BENZENO"
+		},
+		{
+			"exameId": "CAR100",
+			"exameService": "LAB",
+			"id": "S||CAR100",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "CARIÓTIPO COM BANDA G PARA 100 CÉLULAS"
+		},
+		{
+			"exameId": "CAR50",
+			"exameService": "LAB",
+			"id": "S||CAR50",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "CARIÓTIPO COM BANDA G PARA 50 CÉLULAS"
+		},
+		{
+			"exameId": "CARIOG",
+			"exameService": "LAB",
+			"id": "S||CARIOG",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "CARIÓTIPO COM BANDA G - SANGUE"
+		},
+		{
+			"exameId": "CICLO",
+			"exameService": "LAB",
+			"id": "S||CICLO",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "CICLOSPORINA"
+		},
+		{
+			"exameId": "CMPD",
+			"exameService": "LAB",
+			"id": "S||CMPD",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "DISPLASIA CAMPOMÉLICA, SEQUENCIAMENTO SANGER"
+		},
+		{
+			"exameId": "CSDH",
+			"exameService": "LAB",
+			"id": "S||CSDH",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "CARIÓTIPO DE SANGUE PARA DOENÇAS HEMATOLÓGICAS"
+		},
+		{
+			"exameId": "CT-HMA",
+			"exameService": "LAB",
+			"id": "S||CT-HMA",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "HEMOCULTURA AUTOMATIZADA"
+		},
+		{
+			"exameId": "DADOSB",
+			"exameService": "LAB",
+			"id": "S||DADOSB",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "",
+			"name": "SOLICITAÇÃO DE DADOS BRUTOS DE EXAMES GENÉTICOS"
+		},
+		{
+			"exameId": "EMSANG",
+			"exameService": "LAB",
+			"id": "S||EMSANG",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "ESTUDO MOLECULAR SÍNDROME ANGELMAN (UBE3A)"
+		},
+		{
+			"exameId": "ETANOT",
+			"exameService": "LAB",
+			"id": "S||ETANOT",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "ETANOL SANGUE TOTAL"
+		},
+		{
+			"exameId": "EVEROL",
+			"exameService": "LAB",
+			"id": "S||EVEROL",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "DOSAGEM EVEROLIMUS "
+		},
+		{
+			"exameId": "FMD",
+			"exameService": "LAB",
+			"id": "S||FMD",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "FISH PARA MICRODELEÇÃO 22q11.2"
+		},
+		{
+			"exameId": "FR",
+			"exameService": "LAB",
+			"id": "S||FR",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "FATOR REUMATÓIDE - SANGUE"
+		},
+		{
+			"exameId": "G-KIR",
+			"exameService": "LAB",
+			"id": "S||G-KIR",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "",
+			"name": "GENOTIPAGEM KIR"
+		},
+		{
+			"exameId": "GASO",
+			"exameService": "LAB",
+			"id": "S||GASO",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "GASOMETRIA ARTERIAL"
+		},
+		{
+			"exameId": "GASOV",
+			"exameService": "LAB",
+			"id": "S||GASOV",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "GASOMETRIA VENOSA"
+		},
+		{
+			"exameId": "GS-RH",
+			"exameService": "LAB",
+			"id": "S||GS-RH",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "GRUPO SANGUÍNEO + FATOR RH/DU"
+		},
+		{
+			"exameId": "HEXAB",
+			"exameService": "LAB",
+			"id": "S||HEXAB",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "HEXOSAMINIDASE A E B"
+		},
+		{
+			"exameId": "HLAPCR",
+			"exameService": "LAB",
+			"id": "S||HLAPCR",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "ANTÍGENO HLA-B-27, PESQUISA - PCR - SANGUE"
+		},
+		{
+			"exameId": "HLB-AR",
+			"exameService": "LAB",
+			"id": "S||HLB-AR",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "GENÓTIPO HLA-B CLASSE I (ALTA RESOLUÇÃO)"
+		},
+		{
+			"exameId": "I73",
+			"exameService": "LAB",
+			"id": "S||I73",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE PARA CHRONOMUS THUMMI (VERME DE SANGUE) - I73"
+		},
+		{
+			"exameId": "LA+KA",
+			"exameService": "LAB",
+			"id": "S||LA+KA",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "LAMBDA (CADEIA LEVE) E KAPPA (CADEIA LEVE)"
+		},
+		{
+			"exameId": "MERCUR",
+			"exameService": "LAB",
+			"id": "S||MERCUR",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "MERCÚRIO - SANGUE"
+		},
+		{
+			"exameId": "MSEPT",
+			"exameService": "LAB",
+			"id": "S||MSEPT",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "SEPTINA9 METILADA (MSEPT) SCREENING"
+		},
+		{
+			"exameId": "P-ESPQ",
+			"exameService": "LAB",
+			"id": "S||P-ESPQ",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "",
+			"name": "PAINEL PARA ESPONDILITE ANQUILOSANTE"
+		},
+		{
+			"exameId": "PADUA2",
+			"exameService": "LAB",
+			"id": "S||PADUA2",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "PROTROMBINA DE PADUA2 ( MUTAÇÃO ARG596TRP)"
+		},
+		{
+			"exameId": "PCRPVB",
+			"exameService": "LAB",
+			"id": "S||PCRPVB",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "PCR PARA PARVOVÍRUS B19"
+		},
+		{
+			"exameId": "PLASMO",
+			"exameService": "LAB",
+			"id": "S||PLASMO",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "PLASMODIUM - PESQUISA"
+		},
+		{
+			"exameId": "PQC",
+			"exameService": "LAB",
+			"id": "S||PQC",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "QUEBRAS CROMOSSÔMICAS - PESQUISA - SANGUE"
+		},
+		{
+			"exameId": "RET8EX",
+			"exameService": "LAB",
+			"id": "S||RET8EX",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "PROTO-ONCOGENE RET:8 EXONS, SEQUENCIAMENTO"
+		},
+		{
+			"exameId": "TS",
+			"exameService": "LAB",
+			"id": "S||TS",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "TEMPO DE SANGRIA"
+		},
+		{
+			"exameId": "TSF",
+			"exameService": "LAB",
+			"id": "S||TSF",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "TESTE DE SEXAGEM FETAL"
+		},
+		{
+			"exameId": "V-AL",
+			"exameService": "LAB",
+			"id": "S||V-AL",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "ÁCIDO LÁTICO - VETERINÁRIO"
+		},
+		{
+			"exameId": "V-CICL",
+			"exameService": "LAB",
+			"id": "S||V-CICL",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "CICLOSPORINA - VETERINÁRIO"
+		},
+		{
+			"exameId": "W1",
+			"exameService": "LAB",
+			"id": "S||W1",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE ESPECÍFICO PARA AMBROSIA ELATIOR W1 "
+		},
+		{
+			"exameId": "W2",
+			"exameService": "LAB",
+			"id": "S||W2",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE ESPECÍFICO PARA AMBROSIA PSILOSTACHYA W2 "
+		},
+		{
+			"exameId": "W3",
+			"exameService": "LAB",
+			"id": "S||W3",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE ESPECÍFICO PARA AMBROSIA TRIFIDA W3 "
+		},
+		{
+			"exameId": "W4",
+			"exameService": "LAB",
+			"id": "S||W4",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE ESPECÍFICO PARA FRANSERIA ACANTHICARPA W4"
+		},
+		{
+			"exameId": "W7",
+			"exameService": "LAB",
+			"id": "S||W7",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE ESPECÍFICO PARA CRYSANTHEMUM LEUCANTHEMUM W7"
+		},
+		{
+			"exameId": "WX5",
+			"exameService": "LAB",
+			"id": "S||WX5",
+			"materialId": "S",
+			"materialName": "SANGUE",
+			"modalityId": "AC",
+			"name": "IGE MÚLTIPLO PARA WX5"
+		},
+		{
+			"exameId": "MENAC",
+			"exameService": "VAC",
+			"id": "VAC||MENAC",
+			"materialId": "VAC",
+			"materialName": "VACINA",
+			"modalityId": "",
+			"name": "VACINA MENINGOCOCICA ACWY SANOFI PASTEUR"
+		},
+		{
+			"exameId": "CHEF",
+			"exameService": "IMG",
+			"id": "VIVO||CHEF",
+			"materialId": "VIVO",
+			"materialName": "DIAGNOSTICO POR IMAGEM - IN VIVO",
+			"modalityId": "CONCK",
+			"name": "CHECKUP EXECUTIVO FEMININO"
+		}
+	]
+}
