@@ -251,24 +251,6 @@
 			"materialName": "SANGUE",
 			"modalityId": "AC",
 			"name": "IGE PARA CHRONOMUS THUMMI (VERME DE SANGUE) - I73"
-		},
-		{
-			"exameId": "LA+KA",
-			"exameService": "LAB",
-			"id": "S||LA+KA",
-			"materialId": "S",
-			"materialName": "SANGUE",
-			"modalityId": "AC",
-			"name": "LAMBDA (CADEIA LEVE) E KAPPA (CADEIA LEVE)"
-		},
-		{
-			"exameId": "MERCUR",
-			"exameService": "LAB",
-			"id": "S||MERCUR",
-			"materialId": "S",
-			"materialName": "SANGUE",
-			"modalityId": "AC",
-			"name": "MERCÚRIO - SANGUE"
 		}
 	]
 }
